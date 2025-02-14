@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "jmx.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'jmx.enabled'"
+  },
+  {
+    "name": "jmx.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'jmx.datasource.driver-class-name'"
+  },
+  {
+    "name": "jmx.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'jmx.datasource.url'"
+  },
+  {
+    "name": "jmx.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'jmx.datasource.username'"
+  },
+  {
+    "name": "datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driver-class-name'"
+  },
+  {
+    "name": "datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.url'"
+  },
+  {
+    "name": "datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.username'"
+  }
+]}
